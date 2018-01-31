@@ -5,6 +5,7 @@ The player earns points by rolling the die.
 Rules:
 
 -if the user rolls a 1, their turn ends and they lose their turn score. 
+
 -if the user rolls any other number:
    the number rolled is added to their turn score
    the user chooses to re-roll or end their turn and keep their turn score. Their turn score is added to their overall score. 
