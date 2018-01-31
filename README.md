@@ -7,11 +7,11 @@ Rules:
 -if the user rolls a 1, their turn ends and they lose their turn score. 
 
 -if the user rolls any other number:
-   the number rolled is added to their turn score.
+      the number rolled is added to their turn score.
    
-   the user chooses to re-roll or end their turn and keep their turn score.
+      the user chooses to re-roll or end their turn and keep their turn score.
    
-   their turn score is added to their overall score. 
+      their turn score is added to their overall score. 
 
 The winner is the first player to reach 100 points.
 
